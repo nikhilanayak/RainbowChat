@@ -1,0 +1,6 @@
+name: Rainbowchat
+version: ${project.version}
+main: net.indianboy6.rainbowchat.Rainbowchat
+api-version: 1.16
+authors: [ IndianBoy6 ]
+description: A Simple Plugin To Make Chat Rainbow Colors
